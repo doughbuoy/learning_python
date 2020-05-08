@@ -10,3 +10,4 @@ print(string[5:])
 #prints -  odeCamp
 print(string[:7])
 #prints freeCod
+print(string[0:7])
