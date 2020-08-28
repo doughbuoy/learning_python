@@ -1,0 +1,1 @@
+iterable = [ 'spring', 'summer', 'fall',  'winter' ]
